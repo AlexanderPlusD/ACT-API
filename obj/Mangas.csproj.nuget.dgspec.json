@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\Mangas.csproj": {}
+    "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\ACT-API\\Mangas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\Mangas.csproj": {
+    "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\ACT-API\\Mangas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\Mangas.csproj",
+        "projectUniqueName": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\ACT-API\\Mangas.csproj",
         "projectName": "Mangas",
-        "projectPath": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\Mangas.csproj",
+        "projectPath": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\ACT-API\\Mangas.csproj",
         "packagesPath": "C:\\Users\\Alexander Bolio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\obj\\",
+        "outputPath": "C:\\Users\\Alexander Bolio\\Documents\\CuartoCuatrimestre\\AWOAS\\My_first_api\\Mangas\\ACT-API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexander Bolio\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mangas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ffeb4c46f9babb67dd29e924f450fa3e95c66e59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mangas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mangas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
